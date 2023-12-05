@@ -1,2 +1,2 @@
 # SegFormer-B0
-Implementation of SegFormer-B0 from scratch for semantic segmentation.
+Implementation of transformer based SegFormer-B0 from scratch for semantic segmentation.
